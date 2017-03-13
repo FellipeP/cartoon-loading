@@ -1,3 +1,5 @@
+# Cartoon-loading
+
 ```js
 
 var loading = require('cartoon-loading');
