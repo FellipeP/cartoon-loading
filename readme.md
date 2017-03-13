@@ -1,5 +1,7 @@
 # Cartoon-loading
 
+[![stars][npm-image]][npm-url]
+
 ```js
 
 var loading = require('cartoon-loading');
@@ -43,3 +45,10 @@ loading.stop();
 ![loading wave_01](https://image.ibb.co/bxVtmF/loading_wave_01.gif)
 ![loading fish](https://image.ibb.co/f6xHDv/loading_fish.gif)
 ![loading newave](https://image.ibb.co/c2OPtv/loading_newave.gif)
+
+## License
+
+  [MIT](LICENSE)
+
+[npm-image]: https://img.shields.io/github/stars/FellipeP/cartoon-loading.svg
+[npm-url]: https://www.npmjs.com/package/cartoon-loading
