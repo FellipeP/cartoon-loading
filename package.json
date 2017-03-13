@@ -1,7 +1,12 @@
 {
   "name": "cartoon-loading",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "loading terminal full screen iterator",
+  "repositories": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FellipeP/cartoon-loading.git"
+  },
   "main": "loading.js",
   "scripts": {
     "test": "node test.js"
