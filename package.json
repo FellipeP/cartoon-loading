@@ -1,0 +1,14 @@
+{
+  "name": "cartoon-loading",
+  "version": "1.0.1",
+  "description": "loading terminal full screen iterator",
+  "main": "loading.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "loading", "cartoon"
+  ],
+  "author": "Fellipe Paiva <fellipe.paiva@newaveelecom.com.br> (http://newavetele.com)",
+  "license": "MIT"
+}
